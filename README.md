@@ -30,9 +30,7 @@ This project focuses on analyzing Superstore sales data using Excel, SQL, and Po
 ---
 
 ##  Dashboard Preview
-
-![Dashboard](dashboard.png)
-
+![Dashboard](dashboard.png.png)
 ---
 
 ##  SQL Queries Used
