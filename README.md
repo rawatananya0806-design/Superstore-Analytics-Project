@@ -43,7 +43,7 @@ This project focuses on identifying sales trends, profitability patterns, custom
 
 ## 📊 Excel Dashboard
 
-![Excel Dashboard](Excel_Dashboard.png)
+![Excel Dashboard](Excel_Dashboard.png.png)
 
 ### Dashboard Highlights
 - Sales by Region
@@ -56,8 +56,7 @@ This project focuses on identifying sales trends, profitability patterns, custom
 ---
 
 ## 📉 Power BI Dashboard
-
-![Power BI Dashboard](PowerBI_Sales_Analytics_Dashboard.png)
+![Power BI Dashboard](PowerBI_Sales_Analytics_Dashboard.png.png)
 
 ### Dashboard Features
 - KPI Cards
