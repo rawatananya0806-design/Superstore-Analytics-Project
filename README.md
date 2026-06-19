@@ -24,6 +24,7 @@ This project focuses on identifying sales trends, profitability patterns, custom
 |--------|----------|
 | Microsoft Excel | Data Analysis & Dashboard Creation |
 | SQL | Data Querying & Business Insights |
+| Power BI | Interactive Data Visualization |
 
 
 ---
