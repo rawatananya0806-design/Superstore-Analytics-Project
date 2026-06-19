@@ -24,8 +24,7 @@ This project focuses on identifying sales trends, profitability patterns, custom
 |--------|----------|
 | Microsoft Excel | Data Analysis & Dashboard Creation |
 | SQL | Data Querying & Business Insights |
-| Power BI | Interactive Data Visualization |
-| CSV Dataset | Sales Data Source |
+
 
 ---
 
@@ -104,7 +103,6 @@ GROUP BY Category;
 
 - Superstore_Analytics_Dashboard.pbix
 - Excel_Dashboard.png
-- Superstore Dataset (.csv)
 - SQL Query Screenshots
 - Power BI Dashboard Screenshot
 
