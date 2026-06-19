@@ -56,7 +56,7 @@ This project focuses on identifying sales trends, profitability patterns, custom
 ---
 
 ## 📉 Power BI Dashboard
-![Power BI Dashboard](PowerBI_Sales_Analytics_Dashboard.png.png)
+![Power BI Dashboard](PowerBI_Sales_Analytics_Dashboard.png)
 
 ### Dashboard Features
 - KPI Cards
